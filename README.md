@@ -74,6 +74,8 @@ Model performance was evaluated using:
 Please see complete Python code here:
 
 [Heart Disease Prediction Using Python Machine Learning Notebook](heart_disease_prediction.ipynb)
+Heart disease prediction.ipynb
+
 
 ## Observation
 Variable importance analysis was performed to identify clinical variables that contributed most to heart disease risk prediction.
